@@ -20,3 +20,5 @@ const vikingSchema = new Schema({
 
 const VikingModel = model("viking", vikingSchema);
 module.exports = VikingModel;
+
+//https://github.com/1travelintexan/Dino-Mongoose
